@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Réka</h1>
 <h3 align="center">A lively student from Hungary</h3>
 
-- 🔭 I’m currently working on [NoteShare](https://github.com/BHBNoteShare/NoteShare)
+- 🔭 I’m currently working on [BerAuto](https://github.com/KornelHajto/BerAuto)
 
 - 🌱 I’m currently learning **C#**
 
